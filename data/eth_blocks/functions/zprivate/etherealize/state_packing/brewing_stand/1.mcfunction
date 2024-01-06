@@ -1,0 +1,1 @@
+$data modify storage eth_block:data BlockStateString set value "[has_bottle_0=$(has_bottle_0), has_bottle_1=$(has_bottle_1), has_bottle_2=$(has_bottle_2)]"

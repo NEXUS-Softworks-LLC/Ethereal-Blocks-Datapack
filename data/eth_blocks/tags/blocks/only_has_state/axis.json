@@ -1,0 +1,19 @@
+{
+    "values": [
+      "#minecraft:logs",
+      "minecraft:bone_block",
+      "minecraft:quartz_pillar",
+      "minecraft:purpur_pillar",
+      "minecraft:basalt",
+      "minecraft:polished_basalt",
+      "minecraft:chain",
+      "minecraft:bamboo_block",
+      "minecraft:stripped_bamboo_block",
+      "minecraft:deepslate",
+      "minecraft:ochre_froglight",
+      "minecraft:verdant_froglight",
+      "minecraft:pearlescent_froglight",
+      "minecraft:hay_block",
+      "minecraft:muddy_mangrove_roots"
+    ]
+  }

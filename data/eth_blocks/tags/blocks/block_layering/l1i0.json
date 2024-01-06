@@ -1,0 +1,11 @@
+{
+    "values": [
+        "#eth_blocks:only_has_state/axis",
+        "#eth_blocks:only_has_state/facing",
+        "#eth_blocks:only_has_state/waterlogged",
+        "#eth_blocks:only_has_state/lit",
+        "#eth_blocks:chests",
+        "#eth_blocks:furnaces",
+        "#eth_blocks:beehives"
+    ]
+  }

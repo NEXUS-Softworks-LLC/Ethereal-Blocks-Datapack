@@ -1,0 +1,1 @@
+$setblock ~ ~ ~ $(BlockID)$(BlockStateString)$(BlockData)

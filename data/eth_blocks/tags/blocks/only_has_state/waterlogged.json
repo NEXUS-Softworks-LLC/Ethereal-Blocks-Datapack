@@ -1,0 +1,10 @@
+{
+    "values": [
+      "#minecraft:walls",
+      "#minecraft:fences",
+      "#eth_blocks:glass_panes",
+      "minecraft:iron_bars",
+      "minecraft:conduit",
+      "minecraft:mangrove_roots"      
+    ]
+  }

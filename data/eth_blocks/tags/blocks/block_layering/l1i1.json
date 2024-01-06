@@ -1,0 +1,11 @@
+{
+    "values": [
+        "#eth_blocks:lanterns",
+        "#eth_blocks:mushroom_blocks",
+        "#minecraft:stairs",
+        "#minecraft:slabs",
+        "#minecraft:trapdoors",
+        "#minecraft:fence_gates",
+        "#minecraft:leaves"
+    ]
+  }

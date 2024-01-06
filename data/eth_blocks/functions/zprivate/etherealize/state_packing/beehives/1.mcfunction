@@ -1,0 +1,1 @@
+$data modify storage eth_block:data BlockStateString set value "[facing=$(facing), honey_level=$(honey_level)]"

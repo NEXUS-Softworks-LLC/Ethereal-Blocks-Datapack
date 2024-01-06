@@ -1,0 +1,1 @@
+$data modify storage eth_block:data BlockStateString set value "[east=$(east), west=$(west), north=$(north), south=$(south), up=$(up), down=$(down)]"

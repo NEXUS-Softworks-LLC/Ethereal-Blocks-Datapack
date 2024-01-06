@@ -1,0 +1,1 @@
+$data modify storage eth_block:data BlockStateString set value "[facing=$(facing), half=$(half), open=$(open), waterlogged=$(waterlogged)]"

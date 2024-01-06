@@ -1,0 +1,1 @@
+$data modify storage eth_block:data BlockStateString set value "[has_record=$(has_record)]"

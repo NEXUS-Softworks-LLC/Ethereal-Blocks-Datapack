@@ -1,0 +1,15 @@
+{
+    "values": [
+        "#eth_blocks:nonsolid",
+        "#minecraft:beds",
+        "minecraft:end_portal_frame",
+        "minecraft:chorus_flower",
+        "minecraft:chorus_plant",
+        "minecraft:cactus",
+        "minecraft:pointed_dripstone",
+        "minecraft:command_block",
+        "minecraft:structure_block",
+        "minecraft:jigsaw",
+        "minecraft:structure_void"
+    ]
+  }

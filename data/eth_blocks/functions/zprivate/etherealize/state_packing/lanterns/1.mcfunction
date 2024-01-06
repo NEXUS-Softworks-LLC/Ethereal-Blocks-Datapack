@@ -1,0 +1,1 @@
+$data modify storage eth_block:data BlockStateString set value "[hanging=$(hanging), waterlogged=$(waterlogged)]"

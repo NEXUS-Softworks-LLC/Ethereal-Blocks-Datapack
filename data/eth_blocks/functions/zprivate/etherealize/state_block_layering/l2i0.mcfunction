@@ -1,0 +1,2 @@
+execute if block ~ ~ ~ #eth_blocks:block_layering/l1i0 run function eth_blocks:zprivate/etherealize/state_block_layering/l1i0
+execute if block ~ ~ ~ #eth_blocks:block_layering/l1i1 run function eth_blocks:zprivate/etherealize/state_block_layering/l1i1

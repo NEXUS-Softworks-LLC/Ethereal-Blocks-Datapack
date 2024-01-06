@@ -1,0 +1,19 @@
+{
+    "values": [
+      "minecraft:anvil",
+      "minecraft:barrel",
+      "minecraft:dispenser",
+      "minecraft:dropper",
+      "minecraft:observer",
+      "#eth_blocks:pistons",
+      "minecraft:loom",
+      "minecraft:stonecutter",
+      "minecraft:end_rod",
+      "#eth_blocks:glazed_terracotta",
+      "minecraft:hopper",
+      "minecraft:pumpkin",
+      "minecraft:carved_pumpkin",
+      "minecraft:jack_o_lantern",
+      "#minecraft:shulker_boxes"
+    ]
+  }

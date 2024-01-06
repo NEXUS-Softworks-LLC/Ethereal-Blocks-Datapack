@@ -1,0 +1,32 @@
+{
+    "values": [
+        "#eth_blocks:only_has_state/axis",
+        "#eth_blocks:only_has_state/facing",
+        "#eth_blocks:only_has_state/waterlogged",
+        "#eth_blocks:only_has_state/lit",
+        "#eth_blocks:chests",
+        "#eth_blocks:furnaces",
+        "#eth_blocks:beehives",
+        "#eth_blocks:lanterns",
+        "#eth_blocks:mushroom_blocks",
+        "#minecraft:stairs",
+        "#minecraft:slabs",
+        "#minecraft:trapdoors",
+        "#minecraft:fence_gates",
+        "#minecraft:leaves",
+        
+        "minecraft:brewing_stand",
+        "minecraft:bell",
+        "minecraft:candle",
+        "minecraft:ender_chest",
+        "minecraft:chiseled_bookshelf",
+        "minecraft:daylight_detector",
+        "minecraft:grindstone",
+        "minecraft:jukebox",
+        "minecraft:lectern",
+        "minecraft:lightning_rod",
+        "minecraft:respawn_anchor",
+        "minecraft:sea_pickle",
+        "minecraft:turtle_egg"
+    ]
+  }
