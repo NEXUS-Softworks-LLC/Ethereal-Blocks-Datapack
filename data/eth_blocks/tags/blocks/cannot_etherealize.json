@@ -2,6 +2,7 @@
     "values": [
         "#eth_blocks:nonsolid",
         "#minecraft:beds",
+        "#minecraft:doors",
         "minecraft:end_portal_frame",
         "minecraft:chorus_flower",
         "minecraft:chorus_plant",
@@ -10,6 +11,7 @@
         "minecraft:command_block",
         "minecraft:structure_block",
         "minecraft:jigsaw",
-        "minecraft:structure_void"
+        "minecraft:structure_void",
+        "minecraft:bedrock"
     ]
   }

@@ -8,7 +8,7 @@ Then run `/execute positioned <x> <y> <z> run function eth_blocks:etherealize` t
 
 When the ethereal block reaches it's maximum age, it will be returned to it's normal state, and will retain any data it had before it was transformed.
 
-To manually return an ethereal block to normal at a position, run `/executed positioned <x> <y> <z> run function eth_blocks:detherealize`
+To manually return the nearest ethereal block to normal, run `/execute as @e[tag=EtherealBlock,sort=nearest,limit=1] run function eth_blocks:detherealize`
 
 ## Current Limitations
 
@@ -16,8 +16,6 @@ To manually return an ethereal block to normal at a position, run `/executed pos
 
 * Some container blocks, such as chests and shulkers, will turn invisible while ethereal
 
-* Blocks that affect other blocks, such as door halves, cacti, and chorus plants, cannot become ethereal
+* Blocks that affect other blocks, such as door halves, beds, and cacti, cannot become ethereal
 
 * Blocks that connect with each other, such as fences, glass panes, and walls, will not connect while ethereal
-
-* Datapack does not function on superflat worlds

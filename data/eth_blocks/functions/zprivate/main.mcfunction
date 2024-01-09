@@ -1,2 +1,2 @@
-# tick ethereal block entities, basically just making sure their timer gets reset every once in awhile so they stay alive
-execute as @e[type=falling_block,tag=EtherealBlock] run function eth_blocks:zprivate/block_tick
+# tick ethereal block entities
+execute as @e[type=falling_block,tag=EtherealBlock] at @s run function eth_blocks:zprivate/block_tick
