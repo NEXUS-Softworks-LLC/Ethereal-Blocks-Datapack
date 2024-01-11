@@ -15,8 +15,5 @@ data modify storage eth_block:data BlockData set from block ~ ~ ~
 #> Put any block states the block has into storage and parse the BlockStateString
 execute if block ~ ~ ~ #eth_blocks:has_states run function eth_blocks:zprivate/etherealize/state_block_layering/l3i0
 
-#> Put maximum age from config score into storage (to be changed to user's liking before etherealizing a block)
-execute store result storage eth_block:data MaximumAge int 1 run scoreboard players get maximumAge eth_block.config
-
 #> Create ethereal block using stored data
 function eth_blocks:zprivate/etherealize/create_falling_block with storage eth_block:data

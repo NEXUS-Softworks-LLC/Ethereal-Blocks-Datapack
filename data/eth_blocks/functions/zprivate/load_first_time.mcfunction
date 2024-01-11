@@ -1,6 +1,7 @@
 scoreboard objectives add eth_block.time dummy
 scoreboard objectives add eth_block.age dummy
 scoreboard objectives add eth_block.max_age dummy
+scoreboard objectives add eth_block.count dummy
 scoreboard players set 1 eth_block.age 1
 scoreboard objectives add eth_block.config dummy
 scoreboard players set maximumAge eth_block.config 1000

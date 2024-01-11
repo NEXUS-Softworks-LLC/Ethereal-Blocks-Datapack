@@ -1,6 +1,7 @@
 scoreboard objectives remove eth_block.time
 scoreboard objectives remove eth_block.age
 scoreboard objectives remove eth_block.max_age
+scoreboard objectives remove eth_block.count
 scoreboard objectives remove eth_block.config
 
 # remove forceloaded chest
