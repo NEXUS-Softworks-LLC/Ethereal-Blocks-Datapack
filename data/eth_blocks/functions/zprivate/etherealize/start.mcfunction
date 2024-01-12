@@ -17,3 +17,6 @@ execute if block ~ ~ ~ #eth_blocks:has_states run function eth_blocks:zprivate/e
 
 #> Create ethereal block using stored data
 function eth_blocks:zprivate/etherealize/create_falling_block with storage eth_block:data
+
+#> Reset custom events in storage
+data modify storage eth_block:data CustomEvents set value {}

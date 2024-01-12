@@ -7,6 +7,7 @@
         "minecraft:chorus_flower",
         "minecraft:chorus_plant",
         "minecraft:cactus",
+        "minecraft:scaffolding",
         "minecraft:pointed_dripstone",
         "minecraft:command_block",
         "minecraft:repeating_command_block",
@@ -14,7 +15,7 @@
         "minecraft:structure_block",
         "minecraft:jigsaw",
         "minecraft:structure_void",
-	"minecraft:barrier",
+	    "minecraft:barrier",
         "minecraft:bedrock"
     ]
   }

@@ -10,5 +10,8 @@ execute if predicate eth_blocks:block_tampered run function eth_blocks:zprivate/
 # increment age score
 scoreboard players operation @s eth_block.age += 1 eth_block.age
 
+# use custom event function if one is present
+execute if data entity @s TileEntityData.Ethereal.CustomEvents.BlockTick run function eth_blocks:zprivate/custom_events/tick with entity @s TileEntityData.Ethereal.CustomEvents
+
 # detherealize if maximum age is reached, unless it is -1 or lower
 execute unless score @s eth_block.max_age matches ..-1 if score @s eth_block.age >= @s eth_block.max_age run function eth_blocks:detherealize

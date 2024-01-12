@@ -1,3 +1,3 @@
-$setblock ~ ~ ~ $(EtherealBlockID)$(EtherealBlockStateString)$(EtherealBlockData)
+$setblock ~ ~ ~ $(BlockID)$(BlockStateString)$(BlockData)
 
 kill @s
